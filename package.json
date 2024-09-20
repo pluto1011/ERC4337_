@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@ethersproject/abstract-provider": "^5.7.0",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.13.2",
+    "hardhat": "^2.22.10"
+  }
+}
